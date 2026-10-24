@@ -13,7 +13,7 @@ Mark Down Guide *[wygląd i dodawanie linków](https://www.markdownguide.org/bas
 
 
 
-<img src="kot.gif" alt="kot" width="150"> <br>
+ ![kot](cat.gif)
 
 Przejdź do sciezka.md [tutaj](sciezka.md)
 
