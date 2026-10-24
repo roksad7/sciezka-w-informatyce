@@ -16,3 +16,7 @@
 > 2. *Odkrycie i poznanie lepiej różnych innych obszarów informatyki*
 > 3. *Zdobycie dodatkowej specjalizacji*
 
+
+Wróć do README [tutaj](README.md)
+#### Dokumentacja: 
+Mark Down Guide *[wygląd strony](https://www.markdownguide.org/basic-syntax/)*.
