@@ -12,8 +12,7 @@
 Mark Down Guide *[wygląd i dodawanie linków](https://www.markdownguide.org/basic-syntax/)*.
 
 
-
- ![kot](cat.gif)
+![kot](cat.gif)
 
 Przejdź do sciezka.md [tutaj](sciezka.md)
 
