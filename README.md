@@ -17,3 +17,10 @@ Mark Down Guide *[wygląd i dodawanie linków](https://www.markdownguide.org/bas
 
 Przejdź do sciezka.md [tutaj](sciezka.md)
 
+
+
+
+###### W tym repozytorium:
++ nauczyłam się tworzyć linki,
++ korzystać z języka znacznika MarkDown,
++ utrwaliłam komendy z użyciem git.
